@@ -112,5 +112,7 @@ body, html {
 ![alt text](Screenshot_16-10-2025_92432_127.0.0.1.jpeg)
 
 
+
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
